@@ -14,7 +14,7 @@ const AppHeader = props => {
             <div className="app-title-text">
               <h1 className="app-title">Netlify + Fauna DB</h1>
               <p className="app-intro">
-                Making FaunaDB & Netlify my good friends...
+                Making FaunaDB & Netlify my very good friends...
               </p>
             </div>
           </div>
